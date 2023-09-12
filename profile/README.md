@@ -1,9 +1,6 @@
 # YourLvlUp
 ## Hi there 👋
 ## Transform your business with our expertise! 
-<!--
-
-**Here are some ideas to get you started:**
 
 🙋‍♀️ We help you scale with online marketing campaigns and impressive websites. Our experienced experts are always up to date to provide you with a top-notch online presence that captivates your target audience. 
 No matter where you are located, we are your partner for a successful digital future. 
