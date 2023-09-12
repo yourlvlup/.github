@@ -19,7 +19,7 @@ At our core, we understand the importance of a compelling online presence in tod
 ## 🔗 You can find us here!
 [![website](https://img.shields.io/badge/website-000?style=for-the-badge&logoColor=white)](https://www.yourlvlup.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/yourlvlup/)
-[![instagram](https://img.shields.io/badge/instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![instagram](https://img.shields.io/badge/instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/](https://www.instagram.com/yourlvlup/))
 <br />
 ## Contact
 - 📧 Feel free to drop us an email at [office@yourlvlup.com](mailto:office@yourlvlup.com)!
