@@ -3,9 +3,11 @@
 ## Transform your business with our expertise! 
 
 🙋‍♀️ We help you scale with online marketing campaigns and impressive websites. Our experienced experts are always up to date to provide you with a top-notch online presence that captivates your target audience. 
-No matter where you are located, we are your partner for a successful digital future. 
+No matter where you are located, we are your partner for a successful digital future.
+
 👩‍💻 We help you scale with online marketing campaigns and impressive websites. Our experienced experts are always up to date to provide you with a top-notch online presence that captivates your target audience. 
 No matter where you are located, we are your partner for a successful digital future. 
+
 🧙 Contact us now and get started! We place special emphasis on ensuring that all processes run efficiently and transparently. 
 That's why we follow a process that places your goals and desires, as well as their fulfillment, at the center. 
 At the outset, we conduct an introductory meeting in which we identify your goals and desires and present you with the options that will lead you to your goal most quickly. 
