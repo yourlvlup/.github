@@ -2,10 +2,7 @@
 ## Hi there 👋
 ## Transform your business with our expertise! 
 
-- 🙋‍♀️ We help you scale with online marketing campaigns and impressive websites. Our experienced experts are always up to date to provide you with a top-notch online presence that captivates your target audience. 
-No matter where you are located, we are your partner for a successful digital future.
-
-- 👩‍💻 We help you scale with online marketing campaigns and impressive websites. Our experienced experts are always up to date to provide you with a top-notch online presence that captivates your target audience. 
+- 🙋‍♀️ We help you scale withimpressive websites and define the future of the web with web3. Our experienced experts are always up to date to provide you with a top-notch online presence that captivates your target audience. 
 No matter where you are located, we are your partner for a successful digital future.
 
 - 🧙 Contact us now and get started! We place special emphasis on ensuring that all processes run efficiently and transparently. 
